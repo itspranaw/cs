@@ -1,0 +1,14 @@
+C:\Users\dell\Documents\Lab\Complex\bin\Debug\net8.0\Complex.exe
+C:\Users\dell\Documents\Lab\Complex\bin\Debug\net8.0\Complex.deps.json
+C:\Users\dell\Documents\Lab\Complex\bin\Debug\net8.0\Complex.runtimeconfig.json
+C:\Users\dell\Documents\Lab\Complex\bin\Debug\net8.0\Complex.dll
+C:\Users\dell\Documents\Lab\Complex\bin\Debug\net8.0\Complex.pdb
+C:\Users\dell\Documents\Lab\Complex\obj\Debug\net8.0\Complex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\Lab\Complex\obj\Debug\net8.0\Complex.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\Lab\Complex\obj\Debug\net8.0\Complex.AssemblyInfo.cs
+C:\Users\dell\Documents\Lab\Complex\obj\Debug\net8.0\Complex.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Lab\Complex\obj\Debug\net8.0\Complex.dll
+C:\Users\dell\Documents\Lab\Complex\obj\Debug\net8.0\refint\Complex.dll
+C:\Users\dell\Documents\Lab\Complex\obj\Debug\net8.0\Complex.pdb
+C:\Users\dell\Documents\Lab\Complex\obj\Debug\net8.0\Complex.genruntimeconfig.cache
+C:\Users\dell\Documents\Lab\Complex\obj\Debug\net8.0\ref\Complex.dll

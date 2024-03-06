@@ -1,0 +1,14 @@
+C:\Users\dell\Documents\Lab\Exception\bin\Debug\net8.0\Exception.exe
+C:\Users\dell\Documents\Lab\Exception\bin\Debug\net8.0\Exception.deps.json
+C:\Users\dell\Documents\Lab\Exception\bin\Debug\net8.0\Exception.runtimeconfig.json
+C:\Users\dell\Documents\Lab\Exception\bin\Debug\net8.0\Exception.dll
+C:\Users\dell\Documents\Lab\Exception\bin\Debug\net8.0\Exception.pdb
+C:\Users\dell\Documents\Lab\Exception\obj\Debug\net8.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\Lab\Exception\obj\Debug\net8.0\Exception.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\Lab\Exception\obj\Debug\net8.0\Exception.AssemblyInfo.cs
+C:\Users\dell\Documents\Lab\Exception\obj\Debug\net8.0\Exception.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Lab\Exception\obj\Debug\net8.0\Exception.dll
+C:\Users\dell\Documents\Lab\Exception\obj\Debug\net8.0\refint\Exception.dll
+C:\Users\dell\Documents\Lab\Exception\obj\Debug\net8.0\Exception.pdb
+C:\Users\dell\Documents\Lab\Exception\obj\Debug\net8.0\Exception.genruntimeconfig.cache
+C:\Users\dell\Documents\Lab\Exception\obj\Debug\net8.0\ref\Exception.dll

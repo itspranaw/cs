@@ -1,0 +1,14 @@
+C:\Users\dell\Documents\Lab\Substring\bin\Debug\net8.0\Substring.exe
+C:\Users\dell\Documents\Lab\Substring\bin\Debug\net8.0\Substring.deps.json
+C:\Users\dell\Documents\Lab\Substring\bin\Debug\net8.0\Substring.runtimeconfig.json
+C:\Users\dell\Documents\Lab\Substring\bin\Debug\net8.0\Substring.dll
+C:\Users\dell\Documents\Lab\Substring\bin\Debug\net8.0\Substring.pdb
+C:\Users\dell\Documents\Lab\Substring\obj\Debug\net8.0\Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\Lab\Substring\obj\Debug\net8.0\Substring.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\Lab\Substring\obj\Debug\net8.0\Substring.AssemblyInfo.cs
+C:\Users\dell\Documents\Lab\Substring\obj\Debug\net8.0\Substring.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Lab\Substring\obj\Debug\net8.0\Substring.dll
+C:\Users\dell\Documents\Lab\Substring\obj\Debug\net8.0\refint\Substring.dll
+C:\Users\dell\Documents\Lab\Substring\obj\Debug\net8.0\Substring.pdb
+C:\Users\dell\Documents\Lab\Substring\obj\Debug\net8.0\Substring.genruntimeconfig.cache
+C:\Users\dell\Documents\Lab\Substring\obj\Debug\net8.0\ref\Substring.dll

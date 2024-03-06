@@ -1,0 +1,14 @@
+C:\Users\dell\Documents\Lab\Absclass\bin\Debug\net8.0\Absclass.exe
+C:\Users\dell\Documents\Lab\Absclass\bin\Debug\net8.0\Absclass.deps.json
+C:\Users\dell\Documents\Lab\Absclass\bin\Debug\net8.0\Absclass.runtimeconfig.json
+C:\Users\dell\Documents\Lab\Absclass\bin\Debug\net8.0\Absclass.dll
+C:\Users\dell\Documents\Lab\Absclass\bin\Debug\net8.0\Absclass.pdb
+C:\Users\dell\Documents\Lab\Absclass\obj\Debug\net8.0\Absclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\Lab\Absclass\obj\Debug\net8.0\Absclass.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\Lab\Absclass\obj\Debug\net8.0\Absclass.AssemblyInfo.cs
+C:\Users\dell\Documents\Lab\Absclass\obj\Debug\net8.0\Absclass.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Lab\Absclass\obj\Debug\net8.0\Absclass.dll
+C:\Users\dell\Documents\Lab\Absclass\obj\Debug\net8.0\refint\Absclass.dll
+C:\Users\dell\Documents\Lab\Absclass\obj\Debug\net8.0\Absclass.pdb
+C:\Users\dell\Documents\Lab\Absclass\obj\Debug\net8.0\Absclass.genruntimeconfig.cache
+C:\Users\dell\Documents\Lab\Absclass\obj\Debug\net8.0\ref\Absclass.dll

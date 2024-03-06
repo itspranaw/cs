@@ -1,0 +1,14 @@
+C:\Users\dell\Documents\Lab\MOi\bin\Debug\net8.0\MOi.exe
+C:\Users\dell\Documents\Lab\MOi\bin\Debug\net8.0\MOi.deps.json
+C:\Users\dell\Documents\Lab\MOi\bin\Debug\net8.0\MOi.runtimeconfig.json
+C:\Users\dell\Documents\Lab\MOi\bin\Debug\net8.0\MOi.dll
+C:\Users\dell\Documents\Lab\MOi\bin\Debug\net8.0\MOi.pdb
+C:\Users\dell\Documents\Lab\MOi\obj\Debug\net8.0\MOi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\Lab\MOi\obj\Debug\net8.0\MOi.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\Lab\MOi\obj\Debug\net8.0\MOi.AssemblyInfo.cs
+C:\Users\dell\Documents\Lab\MOi\obj\Debug\net8.0\MOi.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\Lab\MOi\obj\Debug\net8.0\MOi.dll
+C:\Users\dell\Documents\Lab\MOi\obj\Debug\net8.0\refint\MOi.dll
+C:\Users\dell\Documents\Lab\MOi\obj\Debug\net8.0\MOi.pdb
+C:\Users\dell\Documents\Lab\MOi\obj\Debug\net8.0\MOi.genruntimeconfig.cache
+C:\Users\dell\Documents\Lab\MOi\obj\Debug\net8.0\ref\MOi.dll
