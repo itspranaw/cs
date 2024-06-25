@@ -5,11 +5,11 @@ namespace PascalTriangleDemo
     {
         public static void Main()
         {
-            int rows = 5, val = 1, blank, i, j;
+            int row = 5, val = 1, blank, i, j;
             Console.WriteLine("Pascal's triangle");
-            for (i = 0; i < rows; i++)
+            for (i = 0; i < row; i++)
             {
-                for (blank = 1; blank <= rows - i; blank++)
+                for (blank = 1; blank <= row - i; blank++)
                     Console.Write(" ");
                 for (j = 0; j <= i; j++)
                 {
